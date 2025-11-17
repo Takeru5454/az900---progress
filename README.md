@@ -16,6 +16,6 @@ PART 1: CLOUD CONCEPTS
       - Access to tools without managing backend
     Hybrid Cloud - Cloud that uses both public and private cloud
       - Required to manage two environments which may increase costs
-      - Great flexibility with security, agility and optimization
+      - Great flexibility with security, agility and scalability(ability to handle demand)
     Multi-CLoud - Use and manage two or more public cloud providers
 
