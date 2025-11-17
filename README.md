@@ -9,7 +9,8 @@ PART 1: CLOUD CONCEPTS
     - Development Framework - Pre-built tols and environments that help devs test apps without managing infrastructure
     - Analytics or Business Intelligence - Analyse data to find patterns to predict outcomes
   SaaS (Software as a Service) - Places most responsibility on the cloud provider
-    -  Least flexible but easiest to get up and running
+    - Least flexible but easiest to get up and running
+    - Common Scenarios - | Email and messaging | Business productivity applications | Finance and expense tracking |
 
   Uptime (High Availability) - Ensure availability, regardless of disrptions or events
   Scalability (Handle Demand) - Ability to adjust resources to meet demand
