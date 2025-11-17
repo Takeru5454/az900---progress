@@ -1,5 +1,5 @@
 # az900---progress
-Notes and progress tracking for Microsoft Azure Fundamentals Certification
+Notes for Microsoft Azure Fundamentals Certification
 
 PART 1: CLOUD CONCEPTS
   IaaS (Infrastructure as a Service) - Places most responsibility on the consumer
@@ -33,5 +33,22 @@ PART 1: CLOUD CONCEPTS
       - Required to manage two environments which may increase costs
       - Great flexibility with security, agility and scalability
     Multi-CLoud - Use and manage two or more public cloud providers
+
+  
+PART 2: AZURE COMPUTE AND NETWORKING SERVICES
+  Virtual Desktop - Enables you to use a cloud-hosted version of windows from any location
+    - Enhanced Security - Enable multifactor authentication, assign granular role-based access controls
+       - The data and apps are separated from the local hardware. The actual desktop and apps are running in the cloud, meaning the risk of confidential data being left on a personal device is reduced
+  Containers -  lightweight, portable packages of software that run consistently across environments
+    - Bundles your application code with all its dependencies (libraries, runtime, configs) so it runs the same everywhere
+    - Container Instances - Fastest and simplest way to run container in Azure. They are a PaaS.
+    - Container Apps - 
+
+
+
+
+
+
+
 
   
